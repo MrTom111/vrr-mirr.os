@@ -1,0 +1,50 @@
+# mirr.OS v0.1.
+# Copyright (C) 2016
+# This file is distributed under the same license as the PACKAGE package.
+# 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mirr.OS v0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-17 10:20+0100\n"
+"PO-Revision-Date: 2017-08-25 18:57+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 2.0.1\n"
+"Language: de_DE\n"
+
+msgid "vvs_title"
+msgstr "VVS Timetable"
+
+msgid "vvs_description"
+msgstr "Shows departes from a chosen station"
+
+msgid "vvs_start"
+msgstr "Station"
+
+msgid "vvs_subtitle"
+msgstr "From"
+
+msgid "vvs_error"
+msgstr "Something went wrong :-("
+
+msgid "vvs_bus"
+msgstr "Show bus"
+
+msgid "vvs_ubahn"
+msgstr "Show U-Bahn"
+
+msgid "vvs_zuege"
+msgstr "Show train"
+
+msgid "vvs_sbahn"
+msgstr "Show S-Bahn"
+
+msgid "save"
+msgstr "save"

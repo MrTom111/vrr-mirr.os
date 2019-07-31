@@ -1,0 +1,18 @@
+{
+    "module": {
+        "name": "vvs",
+        "version": "1.0.0",
+        "description": "Zeigt die aktuellen Abfahrszeiten f\u00fcr eine definierte Haltestelle im VRR Gebiet an.",
+        "module_url": "https:\/\/glancr.de\/module\/mobilitaet\/vvs-abfahrten\/",
+        "download_url": "https:\/\/api.glancr.de\/update\/moduleZips\/vvs-.zip",
+        "category": "mobilitaet",
+        "last_update": ""
+    },
+    "creator": {
+        "name": "Mr.Tom",
+        "contact": "kontakt@glancr.de",
+        "website": "https:\/\/glancr.de",
+        "profile": "https:\/\/glancr.de"
+    },
+    "last_update": "Tue Sep 19 20:40:54 UTC 2017"
+}

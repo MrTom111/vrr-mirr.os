@@ -1,0 +1,50 @@
+# mirr.OS v0.1.
+# Copyright (C) 2016
+# This file is distributed under the same license as the PACKAGE package.
+# 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mirr.OS v0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-17 10:20+0100\n"
+"PO-Revision-Date: 2017-09-08 13:57+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 2.0.1\n"
+"Language: de_DE\n"
+
+msgid "vvs_title"
+msgstr "VVS Abfahrtszeiten"
+
+msgid "vvs_description"
+msgstr "Zeigt aktuellen Abfahrtszeiten einer Haltestelle an"
+
+msgid "vvs_start"
+msgstr "Haltestelle"
+
+msgid "vvs_subtitle"
+msgstr "Ab "
+
+msgid "vvs_error"
+msgstr "Da lieft wohl was schief?!"
+
+msgid "vvs_bus"
+msgstr "Zeige Bus"
+
+msgid "vvs_ubahn"
+msgstr "Zeige U-Bahn"
+
+msgid "vvs_sbahn"
+msgstr "Zeige S-Bahn"
+
+msgid "vvs_zuege"
+msgstr "Zeige Züge"
+
+msgid "save"
+msgstr "speichern"
